@@ -209,11 +209,15 @@
             Vehicle newVehicle = new Vehicle();
             Console.WriteLine(newVehicle.ToString());
             Console.WriteLine("***---***---***");
+            
             Car newCar = new Car();
             Console.WriteLine(newCar.ToString());
             Console.WriteLine("***---***---***");
+
             Truck newTruck = new Truck();
             Console.WriteLine(newTruck.ToString());
+            Console.WriteLine("***---***---***");
+
             SUV newSuv = new SUV();
             Console.WriteLine(newSuv.ToString());
             Console.WriteLine("***---***---***");
